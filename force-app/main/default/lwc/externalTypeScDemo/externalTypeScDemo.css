@@ -1,0 +1,29 @@
+.table{
+	border: 1px solid red;
+}
+.parent-Div{
+    height: 50vh;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.btn:hover{
+    background-color: #414141;
+}
+.Master-Table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-Row{
+    border-bottom: 2px solid #5d5a5a;
+    background: #767676;
+    text-transform: capitalize;
+    color: white;
+    font-weight: bolder;
+}
+
+.Row-Data{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
